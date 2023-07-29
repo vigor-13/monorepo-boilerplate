@@ -2,6 +2,8 @@
   "name": "@turborepo/root",
   "private": true,
   "scripts": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "turbo": "^1.10.12"
+  },
   "packageManager": "pnpm@8.6.10"
 }
