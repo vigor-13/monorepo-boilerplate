@@ -1,5 +1,5 @@
 {
-  "name": "@turborepo/root",
+  "name": "@monorepo-boilerplate/root",
   "private": true,
   "scripts": {
     "prepare": "husky install && chmod ug+x .husky/*",
